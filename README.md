@@ -1,2 +1,3 @@
 # iris-classify
-first AI project which classify iris from scikit-learn database
+first AI project which classify iris gist database
+https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/d546eaee765268bf2f487608c537c05e22e4b221/iris.csv
